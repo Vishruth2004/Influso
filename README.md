@@ -22,14 +22,14 @@ This project is a full-stack application built with React for the frontend and N
 ## Running the Application
 
 1. **Start the backend server (runs in localhost:5000)**:
-   Navigate to the `server` directory and run:
+   Navigate to the `back` directory and run:
    ```
    cd back
    node index.js
    ```
 
 3. **Start the frontend**:
-   Navigate to the `client` directory and run:
+   Navigate to the `front` directory and run:
 
    ```
    cd front
