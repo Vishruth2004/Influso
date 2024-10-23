@@ -1,0 +1,18 @@
+{
+    "name": "login-signup-sqlite",
+    "version": "1.0.0",
+    "description": "A simple login/signup system using SQLite, Sequelize, and Node.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "express": "^4.21.1",
+        "hbs": "^4.2.0",
+        "jsonwebtoken": "^9.0.2",
+        "sequelize": "^6.6.5",
+        "sqlite3": "^5.0.11"
+    }
+}
