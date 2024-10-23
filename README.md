@@ -32,7 +32,7 @@ This project is a full-stack application built with React for the frontend and N
    node index.js
    ```
 
-3. **Start the frontend (runs in `localhost:5000`)**:
+3. **Start the frontend (runs in `localhost:3000`)**:
    Navigate to the `front` directory and run the following in terminal:
 
    ```
