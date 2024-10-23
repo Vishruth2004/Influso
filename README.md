@@ -21,7 +21,7 @@ This project is a full-stack application built with React for the frontend and N
 
 ## Running the Application
 
-1. **Start the backend server (runs in localhost:5000)**:
+1. **Start the backend server (runs in `localhost:5000`)**:
    Navigate to the `back` directory and run the following in terminal:
    ```
    cd back
@@ -32,7 +32,7 @@ This project is a full-stack application built with React for the frontend and N
    node index.js
    ```
 
-3. **Start the frontend**:
+3. **Start the frontend (runs in `localhost:5000`)**:
    Navigate to the `front` directory and run the following in terminal:
 
    ```
