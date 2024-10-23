@@ -23,16 +23,18 @@ This project is a full-stack application built with React for the frontend and N
 
 1. **Start the backend server (runs in localhost:5000)**:
    Navigate to the `server` directory and run:
-   
+   ```
    node index.js
-  
+   ```
 
-2. **Start the frontend**:
+3. **Start the frontend**:
    Navigate to the `client` directory and run:
-   
+
+   ```
    npm run start-legacy
+   ```
    
-3. **Access the application**:
+4. **Access the application**:
    Open your browser and go to `http://localhost:3000` to access the frontend.
 
 ## Endpoints
