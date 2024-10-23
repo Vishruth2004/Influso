@@ -24,6 +24,7 @@ This project is a full-stack application built with React for the frontend and N
 1. **Start the backend server (runs in localhost:5000)**:
    Navigate to the `server` directory and run:
    ```
+   cd back
    node index.js
    ```
 
@@ -31,6 +32,7 @@ This project is a full-stack application built with React for the frontend and N
    Navigate to the `client` directory and run:
 
    ```
+   cd front
    npm run start-legacy
    ```
    
